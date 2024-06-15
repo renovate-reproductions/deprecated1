@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "left-pad": "1.0.0"
+  },
+  "devDependencies": {
+    "airbnb-prop-types": "2.16.0"
   }
 }
