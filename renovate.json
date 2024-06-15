@@ -1,4 +1,5 @@
 {
   "extends": ["config:recommended"],
+  "dependencyDashboardOSVVulnerabilitySummary": "all",
   "osvVulnerabilityAlerts": true
 }
